@@ -60,6 +60,9 @@ H.A.T.A aims to revolutionize the agricultural landscape by bridging the disconn
 
 ## Workflow of the Solution
 
+![Uploading HATA SECTION 1 WORKFLOW.png…]()
+
+
 ### HATA Workflow Tech Stack Documentation
 
 ### Overview
